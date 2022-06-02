@@ -10,6 +10,7 @@ from holidays.constants import JAN, MAY, AUG, OCT, NOV, DEC
 from holidays.holiday_base import HolidayBase
 
 
+
 class VacacionesEcuador(HolidayBase):
     """
     Una clase para representar un feriado en Ecuador por provincia (Vacaciones Ecuador) 
